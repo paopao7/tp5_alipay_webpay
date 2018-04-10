@@ -1,22 +1,12 @@
 {
     "name": "paopao7/tp5_alipay_webpay",
-    "description": "base on alipay_webpay_demo with php",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "qianchao",
-            "email": "980569038@qq.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {
-        "php": ">=5.5.0",
-        "paopao7/alipay_webpay": "^1.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "paopao7\\alipay\\": "src"
-        }
-    }
+    "description": "ThinkPHP 5 with alipay webpay power by composer",
+    "keywords":["alipay", "thinkphp"],
+    "homepage":"http://itinfor.cn",
+    "license":"MIT",
+    "version": "1.0.0",
+    "authors":[{
+        "name": "paopao7",
+        "email": "980569038@qq.com"
+    }]
 }
