@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php": ">=5.5.0",
+        "paopao7/alipay_webpay": "^1.0"
+    }
+}
